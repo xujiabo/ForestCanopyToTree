@@ -7,6 +7,7 @@ The dataset consists of 10 forests, and the number of crowns in each forest is a
  | Forest1 | Forest2 | Forest3 | Forest4 | Forest5 | Forest6 | Forest7 | Forest8 | Forest9 | Forest10 |
  |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
  |  357  |  240  |  489  |  218  |  310  |  328  |  311  |  149  |  495  |  319  |
+ \
 &ensp;&ensp;&ensp; The file storage format is as follows:\
 &ensp;&ensp;&ensp; 10-forest — |\
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;forest1  — |\
@@ -54,7 +55,7 @@ if __name__ == '__main__':
     forest_name = "forest6"
     item = 76
 ```
-![](https://github.com/xujiabo/ForestCanopyToTree/assets/trees.jpg)
+![](https://github.com/xujiabo/ForestCanopyToTree/blob/main/assets/trees.jpg)
 \
 \
 Modify the "forest_id" parameter in the "vis_forest.py" file according to your needs, and then run the script. This will enable you to visualize the generated results for the entire forest. 
@@ -62,4 +63,4 @@ Modify the "forest_id" parameter in the "vis_forest.py" file according to your n
 if __name__ == '__main__':
     forest_id = 1
 ```
-![](https://github.com/xujiabo/ForestCanopyToTree/assets/3-f.jpg)
+![](https://github.com/xujiabo/ForestCanopyToTree/blob/main/assets/3-f.jpg)
