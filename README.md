@@ -55,7 +55,7 @@ if __name__ == '__main__':
     forest_name = "forest6"
     item = 76
 ```
-![](https://github.com/xujiabo/ForestCanopyToTree/blob/main/assets/trees.jpg)
+![Tree models](https://github.com/xujiabo/ForestCanopyToTree/blob/main/assets/trees.jpg)
 \
 \
 Modify the "forest_id" parameter in the "vis_forest.py" file according to your needs, and then run the script. This will enable you to visualize the generated results for the entire forest. 
@@ -63,4 +63,4 @@ Modify the "forest_id" parameter in the "vis_forest.py" file according to your n
 if __name__ == '__main__':
     forest_id = 1
 ```
-![](https://github.com/xujiabo/ForestCanopyToTree/blob/main/assets/3-f.jpg)
+![Forests](https://github.com/xujiabo/ForestCanopyToTree/blob/main/assets/3-f.jpg)
