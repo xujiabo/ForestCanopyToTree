@@ -1,4 +1,4 @@
-#Accelerated Forest Modeling from Tree Canopy Point Clouds via Deep Learning
+# Accelerated Forest Modeling from Tree Canopy Point Clouds via Deep Learning
 ## Datasets and Result
 We provide
 * 10-forest dataset for studying tree modeling from crowns, which is stored in the "10-forest" folder.
@@ -7,7 +7,7 @@ The dataset consists of 10 forests, and the number of crowns in each forest is a
  | Forest1 | Forest2 | Forest3 | Forest4 | Forest5 | Forest6 | Forest7 | Forest8 | Forest9 | Forest10 |
  |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
  |  357  |  240  |  489  |  218  |  310  |  328  |  311  |  149  |  495  |  319  |
- \
+ ---
 &ensp;&ensp;&ensp; The file storage format is as follows:\
 &ensp;&ensp;&ensp; 10-forest — |\
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;forest1  — |\
